@@ -1,0 +1,15 @@
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\bin\Debug\net7.0\PensumSjekk.exe
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\bin\Debug\net7.0\PensumSjekk.deps.json
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\bin\Debug\net7.0\PensumSjekk.runtimeconfig.json
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\bin\Debug\net7.0\PensumSjekk.dll
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\bin\Debug\net7.0\PensumSjekk.pdb
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\obj\Debug\net7.0\PensumSjekk.csproj.AssemblyReference.cache
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\obj\Debug\net7.0\PensumSjekk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\obj\Debug\net7.0\PensumSjekk.AssemblyInfoInputs.cache
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\obj\Debug\net7.0\PensumSjekk.AssemblyInfo.cs
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\obj\Debug\net7.0\PensumSjekk.csproj.CoreCompileInputs.cache
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\obj\Debug\net7.0\PensumSjekk.dll
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\obj\Debug\net7.0\refint\PensumSjekk.dll
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\obj\Debug\net7.0\PensumSjekk.pdb
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\obj\Debug\net7.0\PensumSjekk.genruntimeconfig.cache
+C:\Users\erwan\Documents\GitHub\PensumUke1\PensumSjekk\obj\Debug\net7.0\ref\PensumSjekk.dll
